@@ -7,5 +7,5 @@
 - 💬 Ask me about : Flutter, AWS, BAAS, Amplify
 - 📫 How to reach me: yogesh.dubey.0804@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I find jokes of **Rahul Gandhi** better than Anubhav Singh Bassi. 
+
