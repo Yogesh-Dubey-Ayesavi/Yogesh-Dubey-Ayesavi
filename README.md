@@ -57,6 +57,33 @@ ChatView is a powerful and feature-rich Flutter package for implementing a chat 
 </details>  
 
 
+- [scrollable_positioned_list_extended ](https://pub.dev/packages/scrollable_positioned_list_extended) ScrollablePositionedListExtended is a powerful Flutter package that enables smooth and precise item scrolling in lists with instant scrolling and custom maximum/minimum extents, combining functionalities from scrollable_positioned_list and scroll_to_index packages.
+
+<details>
+    <summary>
+      Read more on scroll_postioned_list_extended
+  </summary>
+  
+# ScrollablePositionedListExtended
+
+The Flutter `scrollable_positioned_list_extended` package, available on [pub.dev](https://pub.dev/packages/scrollable_positioned_list_extended), is a powerful tool for creating scrollable lists with position-based item scrolling functionality. With this package, you can easily create a list of items that can be scrolled to specific positions instantly, allowing for smooth and efficient navigation within your app.
+
+One of the standout features of `scrollable_positioned_list_extended` is its ability to scroll to an item instantly. You can programmatically scroll to any item in the list with just a few lines of code, making it ideal for applications where precise item navigation is crucial. This feature is especially useful when dealing with long lists of items, where traditional scrolling may be impractical or time-consuming.
+
+In addition to its instant scrolling capabilities, `scrollable_positioned_list_extended` also combines functionality from the `scroll_to_index` package. This allows you to set maximum and minimum extents for scrolling, giving you finer control over the scrolling behavior of your list. You can define the maximum and minimum positions that the list can scroll to, ensuring that your users can only scroll within a specific range of items.
+
+With `scrollable_positioned_list_extended`, you can create highly customizable lists with smooth scrolling and precise item navigation. It's a powerful tool for building complex, feature-rich applications that require advanced scrolling functionality. Whether you're building a chat application, a social media feed, or any other app that requires scrolling through a list of items, `scrollable_positioned_list_extended` can greatly simplify the process and provide a seamless user experience.
+
+## Links
+
+- Package: [scrollable_positioned_list_extended](https://pub.dev/packages/scrollable_positioned_list_extended)
+- Package: [scroll_to_index](https://pub.dev/packages/scroll_to_index)
+
+      
+  
+</details>
+
+
 ## Contact Me
 
 You can reach me via email at [Email](mailto:yogesh.dubey.0804@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yogesh-dubey-2b9159244/).
