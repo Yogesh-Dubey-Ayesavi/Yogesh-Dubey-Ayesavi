@@ -20,6 +20,7 @@ I am a software developer with experience in Flutter, XMPP, and ML. I have also 
 - **Node.js**: I have worked with Node.js for server-side development, building RESTful APIs, implementing authentication and authorization, and deploying applications on AWS.
 - **AWS**: I have experience with Amazon Web Services (AWS), including services such as AWS Lambda, AWS S3, AWS DynamoDB, AWS Cognito, and AWS Amplify, for building scalable and cloud-based applications.
 - **Firebase**: I have worked with Firebase, a cloud-based mobile and web application development platform, for building real-time databases, authentication, cloud messaging, and hosting applications.
+- **WEBRTC**: WebRTC (Web Real-Time Communication) is an open-source technology for real-time communication between web browsers or applications. It enables peer-to-peer communication for audio, video, and data sharing without the need for plugins. It's built on web standards, supports encryption, authentication, and NAT traversal, and is widely used in applications like video conferencing and online gaming.
 
 ## Projects
 
